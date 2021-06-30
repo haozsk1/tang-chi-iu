@@ -24,7 +24,7 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu Chị nhiều nhiều 😘😘',
     messDesc: 'Em rất đẹp trai phải không.',
     btnAccept: 'Đúng luônn <3',
-    messLink: 'https://www.facebook.com/langtu.haohoa.543792
-}
+    messLink: 'https://www.facebook.com/langtu.haohoa.543792 }
+
 ```
 
